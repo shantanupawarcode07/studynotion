@@ -11,6 +11,7 @@ Student Role: Permissions to enroll in courses, access materials, and engage wit
 Instructor Role: Additional permissions to create, manage, and publish courses.
 User-Friendly Interface: Intuitive navigation and responsive design for an optimal user experience across all devices.
 This repository contains all the code and assets required to maintain and further develop StudyNotion, making it an excellent resource for anyone interested in educational technology development.
+
 HOME PAGE
 ![WhatsApp Image 2024-03-29 at 11 39 14_9e304932](https://github.com/user-attachments/assets/6bb1acd6-af8e-403c-a4fd-3ee4dd70f044)
 ![WhatsApp Image 2024-03-29 at 11 39 06_72243d5b](https://github.com/user-attachments/assets/4a0c4bb6-9919-4501-b46f-71984a16098c)
